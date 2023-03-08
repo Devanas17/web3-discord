@@ -2,8 +2,8 @@
   "_format": "hh-sol-cache-2",
   "files": {
     "D:\\Github\\dapp-university\\discord-web3\\contracts\\Discord.sol": {
-      "lastModificationDate": 1678208128887,
-      "contentHash": "9b4a2cf0c41e5b15099eda81db8ad45f",
+      "lastModificationDate": 1678292489501,
+      "contentHash": "408de3ef0e2d6e8aa61a81ae3c1fb49c",
       "sourceName": "contracts/Discord.sol",
       "solcConfig": {
         "version": "0.8.18",
