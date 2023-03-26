@@ -1,4 +1,5 @@
 import { useState, useContext } from 'react'
+import Navbar from './components/Navbar'
 import { AppContext } from './context/context'
 
 
@@ -6,6 +7,7 @@ import { AppContext } from './context/context'
 function App() {
   return (
     <div className="App">
+      <Navbar />
     </div>
   )
 }
